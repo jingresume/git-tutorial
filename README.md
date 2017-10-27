@@ -1,6 +1,6 @@
 #Git readme
 
-#   feature-A
+#   fix-B
 
 #   not commit feature-A
 
